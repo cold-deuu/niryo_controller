@@ -1,0 +1,10 @@
+#goal
+geometry_msgs/Pose se3_goal
+std_msgs/Float64 duration
+std_msgs/Bool glob
+---
+#res
+std_msgs/Bool se3_res
+---
+#feedback
+std_msgs/Float64 percent

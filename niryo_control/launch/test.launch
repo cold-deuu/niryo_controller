@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+	<!-- start node -->
+	<node pkg="niryo_control" type="niryo_control_node" name="control" output="screen">
+	</node>
+
+</launch>

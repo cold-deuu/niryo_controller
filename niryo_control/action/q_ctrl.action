@@ -1,0 +1,5 @@
+sensor_msgs/JointState q_goal
+---
+std_msgs/Bool q_res
+---
+std_msgs/Float64 percent
